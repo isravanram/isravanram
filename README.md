@@ -34,7 +34,7 @@
 ---
 <div align="center">
 <a href="https://github.com/isravanram?tab=repositories&q=machine-learning&type=&language=&sort="><img src="https://img.shields.io/badge/Machine_Learning-blue?logo=pytorch
-"/></a>
+"></a>
   
 <a href="https://github.com/isravanram?tab=repositories&q=generative-ai&type=&language=&sort="><img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/></a>
 <a href="https://github.com/isravanram?tab=repositories&q=agentic&type=&language=&sort="><img src="https://img.shields.io/badge/Agentic%20AI-6366F1?style=flat-square&logo=robot&logoColor=white"/></a>
