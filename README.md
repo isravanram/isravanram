@@ -22,7 +22,7 @@ I'm a Software Engineer dedicated to pushing the boundaries of artificial intell
 🔬 Research & Development
 
 - Algorithm Design - Advanced data structures and computational optimization
-- AI Research - Contributing to cutting-edge developments in ML/AI
+- Emerging AI Technologies - Continuous exploration of cutting-edge LLMs and AI advancements
 - System Architecture - End-to-end intelligent application design
 - Performance Engineering - High-performance computing for AI workloads
 
