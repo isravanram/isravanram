@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/isravanram/ai-projects-lab"><img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square&logo=brain&logoColor=white"/></a>
-<a href="https://github.com/isravanram/agentic-ai-apps"><img src="https://img.shields.io/badge/Expertise-Machine%20Learning-green?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://github.com/isravanram/open-gpt-core"><img src="https://img.shields.io/badge/Expertise-Machine%20Learning-green?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 <a href="https://github.com/isravanram/gen-ai-apps"><img src="https://img.shields.io/badge/Innovation-Generative%20AI-purple?style=flat-square&logo=openai&logoColor=white"/></a>
 </div>
 
