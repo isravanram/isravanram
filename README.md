@@ -21,40 +21,5 @@
 
 Currently diving deep into agentic AI systems and experimenting with cutting-edge LLM applications. Love turning complex AI research into practical, deployable solutions.
 
-## About Me
-I'm a Software Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, agentic systems, and scalable data infrastructure, I architect intelligent solutions that solve complex real-world problems. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
-
-## Core Expertise
-🧠 Artificial Intelligence & Machine Learning
-
-- Neural Network Architectures - Custom deep learning models and optimization
-- Generative AI Systems - Large language models and multimodal AI
-- Agentic AI Development - Autonomous intelligent agents and decision systems
-- MLOps & Production AI - Scalable ML pipelines and model deployment
-
-🔬 Research & Development
-
-- Algorithm Design - Advanced data structures and computational optimization
-- Emerging AI Technologies - Continuous exploration of cutting-edge LLMs and AI advancements
-- System Architecture - End-to-end intelligent application design
-- Performance Engineering - High-performance computing for AI workloads
-
-📊 Data Engineering & Analytics
-
-- Data Pipeline Architecture - Real-time and batch processing systems at scale
-- ETL/ELT Frameworks - Data transformation and integration workflows
-- Big Data Technologies - Distributed computing and data processing
-- Data Warehousing - Modern data stack implementation and optimization
-- Stream Processing - Real-time data ingestion and event-driven architectures
-- Data Quality & Governance - Ensuring data reliability and compliance
-
-☁️ Cloud Infrastructure & Services
-
-- Cloud Architecture - Multi-cloud and hybrid infrastructure design
-- Container Orchestration - Docker, and microservices deployment
-- Serverless Computing - Event-driven and function-as-a-service architectures
-- DevOps & CI/CD - Continuous integration and deployment pipelines
-- Cloud Security - Identity management, encryption, and compliance frameworks
-- Monitoring & Observability - Distributed tracing, logging, and performance monitoring
 
 
