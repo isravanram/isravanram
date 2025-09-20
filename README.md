@@ -8,6 +8,13 @@
 <a href="https://github.com/isravanram/gen-ai-apps"><img src="https://img.shields.io/badge/Innovation-Generative%20AI-purple?style=flat-square&logo=openai&logoColor=white"/></a>
 </div>
 
+<div align="center">
+<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+<a href="https://openai.com/"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/Agentic%20AI-6366F1?style=flat-square&logo=chainlink&logoColor=white"/></a>
+<a href="https://databricks.com/"><img src="https://img.shields.io/badge/Data%20Engineering-DC2626?style=flat-square&logo=databricks&logoColor=white"/></a>
+</div>
+
 ## About Me
 I'm a Software Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, agentic systems, and scalable data infrastructure, I architect intelligent solutions that solve complex real-world problems. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
 
