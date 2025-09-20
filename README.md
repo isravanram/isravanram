@@ -41,6 +41,19 @@
 <a href="https://github.com/isravanram?tab=repositories&q=data-engineering&type=&language=&sort="><img src="https://img.shields.io/badge/Data%20Engineering-DC2626?style=flat-square&logo=databricks&logoColor=white"/></a>
 </div>
 
+
+---
+
+<div align="center">
+<a href="https://github.com/isravanram?tab=repositories&q=machine-learning&type=&language=&sort="><img src="https://img.shields.io/badge/Machine_Learning-blue?logo=pytorch"/></a>
+  
+<a href="https://github.com/isravanram?tab=repositories&q=generative-ai&type=&language=&sort="><img src="https://img.shields.io/badge/Generative_AI-grey?logo=openai"/></a>
+
+<a href="https://github.com/isravanram?tab=repositories&q=agentic&type=&language=&sort="><img src="https://img.shields.io/badge/Agentic_AI-brightgreen?logo=langgraph"/></a>
+
+<a href="https://github.com/isravanram?tab=repositories&q=data-engineering&type=&language=&sort="><img src="https://img.shields.io/badge/Data_Engineering-beige?logo=apachespark"/></a>
+</div>
+
 ## About Me
 I'm a Software Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, agentic systems, and scalable data infrastructure, I architect intelligent solutions that solve complex real-world problems. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
 
