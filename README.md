@@ -1,6 +1,6 @@
-Isravanram | AI Engineer & Innovation Leader
+# AI Engineer & Innovation Leader 
+
 <div align="center">
-Show Image
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square&logo=brain&logoColor=white"/>
@@ -8,24 +8,23 @@ Show Image
 <img src="https://img.shields.io/badge/Innovation-Generative%20AI-purple?style=flat-square&logo=openai&logoColor=white"/>
 </div>
 
-About Me
-I'm an AI/ML Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, and agentic systems, I architect intelligent solutions that solve complex real-world problems.
-My work spans from fundamental research in machine learning to production-grade AI systems that deliver measurable business impact. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
+## About Me
+I'm an AI/ML Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, and agentic systems, I architect intelligent solutions that solve complex real-world problems. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
 
-Core Expertise
+## Core Expertise
 🧠 Artificial Intelligence & Machine Learning
 
-Neural Network Architectures - Custom deep learning models and optimization
-Generative AI Systems - Large language models and multimodal AI
-Agentic AI Development - Autonomous intelligent agents and decision systems
-MLOps & Production AI - Scalable ML pipelines and model deployment
+- Neural Network Architectures - Custom deep learning models and optimization
+- Generative AI Systems - Large language models and multimodal AI
+- Agentic AI Development - Autonomous intelligent agents and decision systems
+- MLOps & Production AI - Scalable ML pipelines and model deployment
 
 🔬 Research & Development
 
-Algorithm Design - Advanced data structures and computational optimization
-AI Research - Contributing to cutting-edge developments in ML/AI
-System Architecture - End-to-end intelligent application design
-Performance Engineering - High-performance computing for AI workloads
+- Algorithm Design - Advanced data structures and computational optimization
+- AI Research - Contributing to cutting-edge developments in ML/AI
+- System Architecture - End-to-end intelligent application design
+- Performance Engineering - High-performance computing for AI workloads
 
 
 Technical Portfolio
