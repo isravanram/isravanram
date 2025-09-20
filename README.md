@@ -8,6 +8,19 @@
 
 </div>
 
+## Hey there! 👋
+
+**I'm a Software Engineer passionate about AI and making intelligent systems that actually work.**
+
+* 🤖 **AI/ML Engineer** - Building neural networks, LLMs, and agentic systems that solve real problems
+* 🚀 **GenAI Enthusiast** - Always exploring the latest in generative AI and large language models
+* 🔧 **Full-Stack AI** - From data pipelines to cloud deployment, I handle the complete AI lifecycle
+* 📊 **Data Engineering** - Crafting scalable data infrastructure and ETL pipelines
+* ☁️ **Cloud Native** - Docker, microservices, and modern DevOps practices
+* 💡 **Open Source Contributor** - Sharing knowledge and building cool stuff for the community
+
+Currently diving deep into agentic AI systems and experimenting with cutting-edge LLM applications. Love turning complex AI research into practical, deployable solutions.
+
 ## About Me
 I'm a Software Engineer dedicated to pushing the boundaries of artificial intelligence and machine learning. With deep expertise in neural networks, generative AI, agentic systems, and scalable data infrastructure, I architect intelligent solutions that solve complex real-world problems. I believe in the transformative power of AI and am committed to advancing the field through open-source contributions and innovative research.
 
