@@ -12,7 +12,7 @@
 
 **I'm a Software Engineer passionate about AI and making intelligent systems that actually work.**
 
-* 🤖 **AI/ML Engineer** - Building neural networks, LLMs, and agentic systems that solve real problems
+* 🤖 **AI/ML Engineer** - Building intelligent AI models and agentic systems that solve real business problems
 * 🚀 **GenAI Enthusiast** - Always exploring the latest in generative AI and large language models
 * 🔧 **Full-Stack AI** - From data pipelines to cloud deployment, I handle the complete AI lifecycle
 * 📊 **Data Engineering** - Crafting scalable data infrastructure and ETL pipelines
