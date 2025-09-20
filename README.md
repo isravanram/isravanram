@@ -1,4 +1,4 @@
-# AI Engineer & Innovation Leader 
+# AI Engineer & Tech Innovator
 
 <div align="center">
 </div>
