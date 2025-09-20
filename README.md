@@ -5,6 +5,8 @@
 <a href="https://github.com/isravanram?tab=repositories&q=data-engineering&type=&language=&sort="><img src="https://img.shields.io/badge/Data_Engineering-beige?logo=apachespark"/></a>
 <a href="https://github.com/isravanram?tab=repositories&q=generative-ai&type=&language=&sort="><img src="https://img.shields.io/badge/Generative_AI-grey?logo=openai"/></a>
 <a href="https://github.com/isravanram?tab=repositories&q=agentic&type=&language=&sort="><img src="https://img.shields.io/badge/Agentic_AI-brightgreen?logo=langgraph"/></a>
+<a href="https://github.com/isravanram?tab=repositories&q=agentic&type=&language=&sort="><img src="https://img.shields.io/badge/Agentic_AI-%2382B816?logo=langchain&logoColor=white"/></a>
+
 </div>
 
 ## About Me
