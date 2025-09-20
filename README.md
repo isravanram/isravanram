@@ -9,10 +9,10 @@
 </div>
 
 <div align="center">
-<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-<a href="https://openai.com/"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/></a>
-<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/Agentic%20AI-6366F1?style=flat-square&logo=chainlink&logoColor=white"/></a>
-<a href="https://databricks.com/"><img src="https://img.shields.io/badge/Data%20Engineering-DC2626?style=flat-square&logo=databricks&logoColor=white"/></a>
+<a href="https://github.com/isravanram?tab=repositories&q=machine-learning&type=&language=&sort="><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://github.com/isravanram?tab=repositories&q=generative-ai&type=&language=&sort="><img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/></a>
+<a href="https://github.com/isravanram?tab=repositories&q=agentic&type=&language=&sort="><img src="https://img.shields.io/badge/Agentic%20AI-6366F1?style=flat-square&logo=robot&logoColor=white"/></a>
+<a href="https://github.com/isravanram?tab=repositories&q=data-engineering&type=&language=&sort="><img src="https://img.shields.io/badge/Data%20Engineering-DC2626?style=flat-square&logo=databricks&logoColor=white"/></a>
 </div>
 
 ## About Me
